@@ -29,7 +29,7 @@ To provide insight into:
 - `README.md`: Project documentation
 
 ## 🚀 Live Demo
-Coming soon on shinyapps.io...
+(https://fishbassey.shinyapps.io/geoanaltech_ai_job_dataset/)
 
 ## 🙌 Author & Credits
 Built by (https://www.linkedin.com/in/jeremiah-bassey-usang-525285271/) under GEOANALTECH learning series.
